@@ -1,0 +1,12 @@
+.App {
+  /* text-align: center; */
+  /* height: 100%;
+  width: 100%; */
+}
+
+
+.App {
+  background-image: url("../../images/flame.png");
+  background-repeat: repeat;
+  background-color:whitesmoke;
+} 
