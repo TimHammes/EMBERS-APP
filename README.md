@@ -29,7 +29,8 @@ Embers is a social media web application built using Spring Framework and React 
 * Users can search for and view other user profiles
 
 ## Getting Started 
-* Command Line - git clone git@github.com:TimHammes/EMBERS-APP.git
+* Clone repo to a local directory by navigating inside of that directory from command line and run the command below
+* `git clone` git@github.com:TimHammes/EMBERS-APP.git
 ## Back End Set Up
 * Open Eclipse IDE and select Import from File menu to add project to workspace
 * Type Maven into search bar and select Existing Maven project 
