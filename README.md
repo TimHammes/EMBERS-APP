@@ -14,7 +14,7 @@ Embers is a social media web application built using Spring Framework and React 
 * Log4j version 1.2.17
 * PostgreSQL version 4.2.18
 * Apache Tomcat version 9.0.41
-* AWS Java SDK version
+* AWS Java SDK version 1.9.2
 * AWS Java SDK S3 version
 * Apache Spark version 2.4.4
 
