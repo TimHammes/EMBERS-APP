@@ -50,11 +50,17 @@ Embers is a social media web application built using Spring Framework and React 
 * Launch application by running the command `npm start`
 
 ## Usage
-![Ticket View](assets/)
-![Ticket View](assets/)
-![Ticket View](assets/)
-![Ticket View](assets/)
-![Ticket View](assets/)
+![Ticket View](assets/login.JPG)
+![Ticket View](assets/Registration.JPG)
+![Ticket View](assets/HomeFeed.JPG)
+![Ticket View](assets/PersonalProfile.JPG)
+![Ticket View](assets/CreatePost.JPG)
+![Ticket View](assets/AddingImage.JPG)
+![Ticket View](assets/EditProfile.JPG)
+![Ticket View](assets/SearchingFriends.JPG)
+![Ticket View](assets/EmailResetPassword.JPG)
+![Ticket View](assets/ResetPasswordLink.JPG)
+
 
 ## Contributors
 Cody Moody, Orkun Ozekin, Sonali Najera, Tim Hammes, and Corbin Creedon
