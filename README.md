@@ -46,7 +46,7 @@ Embers is a social media web application built using Spring Framework and React 
 * [Download and Install Node.Js](https://nodejs.org/en/download/)
 * Open Command Line Terminal and navigate to React project directory
 * Inside of React project directory run the command `npm install` to download and install project dependencies
-* Next run the command `npm start`
+* Launch application by running the command `npm start`
 
 ## Usage
 ![Ticket View](assets/)
