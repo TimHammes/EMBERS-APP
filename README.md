@@ -30,7 +30,7 @@ Embers is a social media web application built using Spring Framework and React 
 
 ## Getting Started 
 * Command Line - git clone git@github.com:TimHammes/EMBERS-APP.git
-## Back End
+## Back End Set Up
 * Open Eclipse IDE and select Import from File menu to add project to workspace
 * Type Maven into search bar and select Existing Maven project 
 * Browse to Project Directory and click Finish
@@ -42,11 +42,11 @@ Embers is a social media web application built using Spring Framework and React 
 * Add project to Tomcat: Right click Tomcat in server view and select 'Add and Remove'. Select project and Add
 * Start up Tomcat Server: Right click Tomcat in server view and select Start
 * Launch project: Right click project in package explorer and select Run As--Run on Server
-## Front End
+## Front End Set Up
+* [Download and Install Node.Js](https://nodejs.org/en/download/)
 * Open Command Line Terminal and navigate to React project directory
 * Inside of React project directory run the command `npm install` to download and install project dependencies
-
-
+* Next run the command `npm start`
 
 ## Usage
 ![Ticket View](assets/)
